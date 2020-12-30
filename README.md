@@ -12,6 +12,10 @@ Berikut ini adalah Source Code untuk Solusi Traveling Salesman Problem menggunak
 8. TSP08-Final Source Code Algoritma SMO-GA untuk Traveling Salesman Problem https://youtu.be/-eJVryrF9JY
 
 # Dataset
+1. TSPLIB - ELib - ZIB http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/index.html
+2. Data for the Traveling Salesperson Problem https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html
+3. TSP Test Data http://www.math.uwaterloo.ca/tsp/data/index.html
+4. 
 
 # Referensi
 1. Discrete Spider Monkey Optimization for Travelling Salesman Problem https://doi.org/10.1016/j.asoc.2019.105887
