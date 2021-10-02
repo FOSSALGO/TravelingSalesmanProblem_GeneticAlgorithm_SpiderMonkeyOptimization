@@ -16,6 +16,9 @@ Berikut ini adalah Source Code untuk Solusi Traveling Salesman Problem menggunak
 2. Data for the Traveling Salesperson Problem https://people.sc.fsu.edu/~jburkardt/datasets/tsp/tsp.html
 3. TSP Test Data http://www.math.uwaterloo.ca/tsp/data/index.html
 
+# Publication Paper
+1. Performance Comparison of Spider Monkey Optimization and Genetic Algorithm for Traveling Salesman Problem https://ieeexplore.ieee.org/abstract/document/9538795
+
 # Referensi
 1. Discrete Spider Monkey Optimization for Travelling Salesman Problem https://doi.org/10.1016/j.asoc.2019.105887
 
