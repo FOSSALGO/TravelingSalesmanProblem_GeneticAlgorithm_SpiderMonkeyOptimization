@@ -12,6 +12,7 @@ Berikut ini adalah Source Code untuk Solusi Traveling Salesman Problem menggunak
 8. TSP08-Final Source Code Algoritma SMO-GA untuk Traveling Salesman Problem https://youtu.be/-eJVryrF9JY
 
 # Publication Paper
+Please cite this paper:
 1. Performance Comparison of Spider Monkey Optimization and Genetic Algorithm for Traveling Salesman Problem https://ieeexplore.ieee.org/abstract/document/9538795
 
 # Dataset
