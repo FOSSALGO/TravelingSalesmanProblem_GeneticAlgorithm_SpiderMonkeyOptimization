@@ -22,6 +22,8 @@ Please cite this paper:
 
 # Referensi
 1. Discrete Spider Monkey Optimization for Travelling Salesman Problem https://doi.org/10.1016/j.asoc.2019.105887
+2. Discrete Spider Monkey Optimization for Travelling Salesman Problem https://www.researchgate.net/publication/354721339_Performance_Comparison_of_Spider_Monkey_Optimization_and_Genetic_Algorithm_for_Traveling_Salesman_Problem
+3. Discrete Spider Monkey Optimization for Travelling Salesman Problem https://www.researchgate.net/profile/Wawan-Firgiawan/publication/354721339_Performance_Comparison_of_Spider_Monkey_Optimization_and_Genetic_Algorithm_for_Traveling_Salesman_Problem/links/624a3f478068956f3c681451/Performance-Comparison-of-Spider-Monkey-Optimization-and-Genetic-Algorithm-for-Traveling-Salesman-Problem.pdf
 
 # Package
 package: fosalgo
